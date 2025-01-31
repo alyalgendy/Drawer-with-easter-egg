@@ -1,0 +1,6 @@
+Make the .py files opens with (python v?.?) Not visual studio or any code editor.
+
+
+
+
+Have fun while searching on Easter Egg. For Help It's My Name.
